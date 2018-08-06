@@ -1,0 +1,21 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto:400,400i,700");
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+}
+
+
+body {
+  height: 2000px;
+  box-sizing: border-box;
+  font-family:  -apple-system, BlinkMacSystemFont, 'Roboto', Helvetica Neue,sans-serif;
+  background: #fff4ea;
+}
+
+
+.wrapper {
+  max-width: 1200px;
+  padding: 0 30px;
+  margin: 0 auto;
+}
