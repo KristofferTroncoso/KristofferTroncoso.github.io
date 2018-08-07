@@ -116,7 +116,7 @@
       "title": "Random User Redux",
       "sourceCodeUrl": "https://codesandbox.io/s/lmjp23qxq",
       "liveDemoUrl": "https://lmjp23qxq.codesandbox.io/",
-      "screenshot": "https://uploads.codesandbox.io/uploads/user/0d4ba2b9-d5e3-44b9-8137-6df429664220/pIwf-RandomUserRedux.png",
+      "screenshot": "./screenshots/RandomUserRedux.png",
       "description": "A simple user profile search using React with Redux. Random users are fetched using the randomuser.me 3rd-party api",
       "tags": [
         "react",
