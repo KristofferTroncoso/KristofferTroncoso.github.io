@@ -14,7 +14,7 @@ function Card({ title, url, sourceCodeUrl, liveDemoUrl, screenshot, description,
           className="Card__screenshot"
           style={{ background: `url(${screenshot})`, backgroundSize: 'cover', backgroundPosition: 'top' }}
         >
-          <a href={sourceCodeUrl} target="_blank"><p className="Card__description">{description}</p></a>
+          <a href={sourceCodeUrl} target="_blank" rel="noopener noreferrer"><p className="Card__description">{description}</p></a>
         </div>
       </div>
       <div className="Card__bottom">
@@ -25,8 +25,8 @@ function Card({ title, url, sourceCodeUrl, liveDemoUrl, screenshot, description,
           ))}
         </div>
         <div style={{ textAlign: 'right', margin: '0', color: '#4c4c4c' }}>
-          <a href={sourceCodeUrl} target="_blank" style={{ color: '#4c4c4c', fontSize: '90%', margin: '0 2px' }}>Source</a>|
-            <a href={liveDemoUrl} target="_blank" style={{ color: '#4c4c4c', fontSize: '90%', margin: '0 2px' }}>Live Demo</a>
+          <a href={sourceCodeUrl} target="_blank" rel="noopener noreferrer" style={{ color: '#4c4c4c', fontSize: '90%', margin: '0 2px' }}>Source</a>|
+            <a href={liveDemoUrl} target="_blank" rel="noopener noreferrer" style={{ color: '#4c4c4c', fontSize: '90%', margin: '0 2px' }}>Live Demo</a>
         </div>
       </div>
     </div>
