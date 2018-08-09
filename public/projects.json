@@ -48,7 +48,7 @@
       "title": "React CSS Image Editor",
       "sourceCodeUrl": "https://codepen.io/HarryPirate/pen/VddxpX",
       "liveDemoUrl": "https://codepen.io/HarryPirate/pen/VddxpX",
-      "screenshot": "https://s3-us-west-2.amazonaws.com/i.cdpn.io/1493681.VddxpX.3e7da2ae-c5ed-4862-8093-76c595ab904a.png",
+      "screenshot": "./screenshots/reactImageEditor.jpg",
       "description": "Using React and the power of JavaScript, we can manipulate CSS dynamically.",
       "tags": [
         "react",
