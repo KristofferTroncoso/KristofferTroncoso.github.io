@@ -1,7 +1,7 @@
 .SearchForm {
   margin: 0 30px 10px 10px;
   border-bottom: 1px solid #2d2d2d;
-  width: 330px;
+  min-width: 280px;
 }
 
 .SearchForm__input {
@@ -10,7 +10,8 @@
   background: inherit;
   outline: none;
   padding: 5px 30px;
-  width: 300px;
+  min-width: 260px;
+  max-width: 300px;
 }
 
 .SearchForm__input::placeholder {
