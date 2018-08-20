@@ -23,12 +23,12 @@ function About() {
           <li>CSS - Flexbox, Grid, Animations, Frameworks/Bootstrap, SASS, BEM, Responsive, Mobile-first</li>
           <li>JavaScript - ES5, ES6/ES2015-2018, AJAX, Fetch API, jQuery, OOP, Functional</li>
           <li>React - JSX, Redux, React-Router, Animations</li>
-          <li>Node.js - Express, EJS, NPM, REST</li>
+          <li>Node.js - Express, Templating/EJS, NPM, REST</li>
           <li>NoSQL - MongoDB (Mongoose)</li>
-          <li>PWAs</li>
+          <li>PWAs, SPAs, MPAs, static websites</li>
           <li>Git - Github, GitLab, GitFlow</li>
           <li>Testing - Jasmine, Jest, Mocha, Chai</li>
-          <li>Cloud - AWS, Heroku, Google App Engine, Firebase</li>
+          <li>Cloud/Deployment - AWS, Heroku, Github Pages, Google App Engine, Firebase</li>
         </ul>
       </div>
     </main>
