@@ -4,6 +4,7 @@ import Navbar from './Navbar';
 import About from './About';
 import ProjectsList from './ProjectsList';
 import SearchForm from './SearchForm';
+import Contact from './Contact';
 
 class App extends Component {
   constructor(props) {
@@ -44,6 +45,7 @@ class App extends Component {
         <h2 className="wrapper">Projects:</h2>
         <SearchForm handleChange={this.handleChange} projects={this.state.projects} filterTag={this.state.filterTag} clearFilterTag={this.clearFilterTag} />
         <ProjectsList projects={this.state.projects} filterTag={this.state.filterTag} changeFilterTag={this.changeFilterTag} />
+        <Contact />
       </div>
     );
   }
