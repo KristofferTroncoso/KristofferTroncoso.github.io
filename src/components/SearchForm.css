@@ -28,13 +28,14 @@
 }
 
 .SearchForm__input {
-  font-size: 1.2rem;
+  font-size: 1.4rem;
   border: none;
   background: inherit;
   outline: none;
   padding: 5px 10px;
   min-width: 140px;
   max-width: 300px;
+  color: tomato;
 }
 
 .xbutton {
