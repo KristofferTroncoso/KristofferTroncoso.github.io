@@ -14,6 +14,9 @@ class Navbar extends Component {
             <a href="https://codepen.io/HarryPirate/" target="_blank" rel="noopener noreferrer">
               <img className="codepen" src="https://blog.codepen.io/wp-content/uploads/2012/06/Button-Black-Large.png" alt="Codepen" title="Codepen" />
             </a>
+            <a href="https://codesandbox.io/u/KristofferTroncoso" target="_blank" rel="noopener noreferrer">
+              <img className="codesandbox" src="./assets/codesandboxlogo.png" alt="CodeSandbox" title="CodeSandbox" />
+            </a>
           </nav>
         </header>
       </div>
