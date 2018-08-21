@@ -6,12 +6,10 @@
       "sourceCodeUrl": "https://codepen.io/HarryPirate/pen/xjBorN",
       "liveDemoUrl": "https://codepen.io/HarryPirate/full/xjBorN",
       "screenshot": "./screenshots/rheastagramscreenshot.jpeg",
-      "description": "This is an instagram clone but with Rhea only. Created using React.",
+      "description": "An Instagram front-end clone but with Rhea only using React. ",
       "tags": [
         "react",
-        "redux",
         "flexbox",
-        "grid",
         "sass",
         "rhea"
       ]
@@ -36,7 +34,7 @@
       "sourceCodeUrl": "https://codesandbox.io/s/j7wk47lpzy",
       "liveDemoUrl": "https://j7wk47lpzy.codesandbox.io/",
       "screenshot": "./screenshots/iMessageReactGroupChatscreenshot.jpeg",
-      "description": "This one is really cool. Each phone is a component that shares the same messages.",
+      "description": "This one is really cool. Each phone/user is a component that shares the same state of messages. The demo can scale up to dozens of phones/users.",
       "tags": [
         "react",
         "css",
@@ -49,9 +47,10 @@
       "sourceCodeUrl": "https://codepen.io/HarryPirate/pen/VddxpX",
       "liveDemoUrl": "https://codepen.io/HarryPirate/pen/VddxpX",
       "screenshot": "./screenshots/reactImageEditor.jpg",
-      "description": "Using React and the power of JavaScript, we can manipulate CSS dynamically.",
+      "description": "Using React and the power of JavaScript, we can manipulate CSS dynamically. We can also save custom filters just by saving the current state of the input sliders.",
       "tags": [
         "react",
+        "css",
         "rhea"
       ]
     },
@@ -61,7 +60,7 @@
       "sourceCodeUrl": "https://github.com/KristofferTroncoso/lol-search-api-demo",
       "liveDemoUrl": "https://github.com/KristofferTroncoso/lol-search-api-demo",
       "screenshot": "./screenshots/lolapiscreenshot.jpg",
-      "description": "Using the official League Of Legends game API, we can get data of any of the millions of gamers playing the game and display them on screen.",
+      "description": "Using the official League Of Legends / Riot Games API, we can get data of any of the millions of gamers playing the game and display them on screen.",
       "tags": [
         "nodejs",
         "express",
@@ -93,10 +92,13 @@
       "sourceCodeUrl": "https://codepen.io/HarryPirate/pen/aGeOBd",
       "liveDemoUrl": "https://codepen.io/HarryPirate/pen/aGeOBd",
       "screenshot": "./screenshots/ktportfolioScreenshot.jpeg",
-      "description": "I wanted to add a quick and easy way to go through and filter all my projects. So for the Projects portion of the page, I am using React components I created. I learned that React is a good way to inject components in any of your webpages. The whole project doesn't have to be React!",
+      "description": "My portfolio website was created with a focus on speed and practicality. It's a React app compiled to static and deployed to Github Pages.",
       "tags": [
         "react",
-        "flexbox"
+        "flexbox",
+        "json",
+        "responsive",
+        "PWA"
       ]
     },
     {
@@ -105,7 +107,7 @@
       "sourceCodeUrl": "https://codepen.io/HarryPirate/pen/OENKav",
       "liveDemoUrl": "https://codepen.io/HarryPirate/pen/OENKav",
       "screenshot": "./screenshots/reactTodoAppScreenshot.jpeg",
-      "description": "A Todo App built with React",
+      "description": "A Todo App built with React. CRUD capabilities.",
       "tags": [
         "react",
         "sass"
