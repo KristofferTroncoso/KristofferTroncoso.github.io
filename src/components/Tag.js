@@ -16,7 +16,7 @@ function Tag({ tag, changeFilterTag }) {
     mongodb: '#2fbc8b',
     express: '#93e82c',
     api: '#c9c910',
-    css: '#c9c910',
+    css: '#7fc1e2',
     flexbox: '#3da6e2',
     grid: '#3dc2e2',
     responsive: '#e2b931',
@@ -24,7 +24,9 @@ function Tag({ tag, changeFilterTag }) {
     rhea: '#fff',
     rest: '#a2bcd6',
     sass: '#cc6699',
-    vanilla: '#ddcdbe'
+    vanilla: '#ddcdbe',
+    json: '#c0c444',
+    PWA: '#fccb7b'
   }
 
   let tagColor = tagColors[tag] || '#c4c4c4';
