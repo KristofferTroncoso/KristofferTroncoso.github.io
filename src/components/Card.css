@@ -1,10 +1,17 @@
 .Card {
-  width: 350px;
   min-width: 300px;
+  width: 350px;
   height: 300px;
   margin: 10px;
   background: white;
   box-shadow: 1px 1px 4px #3a3a3a;
+}
+
+@media (max-width: 992px) {
+  .Card {
+    width: 500px;
+    margin: 5px;
+  }
 }
 
 .Card__top {
