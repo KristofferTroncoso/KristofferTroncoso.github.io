@@ -25,7 +25,7 @@ class App extends Component {
   }
 
   handleChange = e => {
-    this.setState({ filterTag: e.target.value }, () => console.log(this.state.filterTag));
+    this.setState({ filterTag: e.target.value });
   }
 
   changeFilterTag = tagToFilter => {
