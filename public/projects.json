@@ -15,6 +15,21 @@
       ]
     },
     {
+      "id": 8,
+      "title": "React Easy Code",
+      "sourceCodeUrl": "https://github.com/KristofferTroncoso/react-easy-code",
+      "liveDemoUrl": "https://github.com/KristofferTroncoso/react-easy-code",
+      "screenshot": "./screenshots/react-easy-code.JPG",
+      "description": "A simple code highlighting React component library written in TypeScript deployed to NPM.",
+      "tags": [
+        "react",
+        "typescript",
+        "npm",
+        "styledcomponents",
+        "storybook"
+      ]
+    },
+    {
       "id": 2,
       "title": "Marvel API Character Search",
       "sourceCodeUrl": "https://codepen.io/HarryPirate/pen/rvXxdP",
@@ -99,18 +114,6 @@
         "json",
         "responsive",
         "PWA"
-      ]
-    },
-    {
-      "id": 8,
-      "title": "React Todo App",
-      "sourceCodeUrl": "https://codepen.io/HarryPirate/pen/OENKav",
-      "liveDemoUrl": "https://codepen.io/HarryPirate/pen/OENKav",
-      "screenshot": "./screenshots/reactTodoAppScreenshot.jpeg",
-      "description": "A Todo App built with React. CRUD capabilities.",
-      "tags": [
-        "react",
-        "sass"
       ]
     },
     {

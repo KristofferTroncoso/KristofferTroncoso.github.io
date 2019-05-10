@@ -26,7 +26,12 @@ function Tag({ tag, changeFilterTag }) {
     sass: '#cc6699',
     vanilla: '#ddcdbe',
     json: '#c0c444',
-    PWA: '#fccb7b'
+    PWA: '#fccb7b',
+    typescript: '#294E80',
+    styledcomponents: '#db7093',
+    npm: '#fb3e44',
+    storybook: '#ff4785',
+    bootstrap: '#7952b3'
   }
 
   let tagColor = tagColors[tag] || '#c4c4c4';
