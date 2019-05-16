@@ -31,7 +31,9 @@ function Tag({ tag, changeFilterTag }) {
     styledcomponents: '#db7093',
     npm: '#fb3e44',
     storybook: '#ff4785',
-    bootstrap: '#7952b3'
+    bootstrap: '#7952b3',
+    webpack: '#71a3f2',
+    babel: '#f5da55'
   }
 
   let tagColor = tagColors[tag] || '#c4c4c4';

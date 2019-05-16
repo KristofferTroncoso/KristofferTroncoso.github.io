@@ -1,6 +1,23 @@
 {
   "projects": [
     {
+      "id": 8,
+      "title": "React Easy Code",
+      "sourceCodeUrl": "https://github.com/KristofferTroncoso/react-easy-code",
+      "liveDemoUrl": "https://github.com/KristofferTroncoso/react-easy-code",
+      "screenshot": "./screenshots/react-easy-code.JPG",
+      "description": "A simple code highlighting React component library written in TypeScript deployed to NPM.",
+      "tags": [
+        "react",
+        "typescript",
+        "npm",
+        "webpack",
+        "babel",
+        "styledcomponents",
+        "storybook"
+      ]
+    },
+    {
       "id": 0,
       "title": "Rheastagram (Instagram clone)",
       "sourceCodeUrl": "https://codepen.io/HarryPirate/pen/xjBorN",
@@ -12,21 +29,6 @@
         "flexbox",
         "sass",
         "rhea"
-      ]
-    },
-    {
-      "id": 8,
-      "title": "React Easy Code",
-      "sourceCodeUrl": "https://github.com/KristofferTroncoso/react-easy-code",
-      "liveDemoUrl": "https://github.com/KristofferTroncoso/react-easy-code",
-      "screenshot": "./screenshots/react-easy-code.JPG",
-      "description": "A simple code highlighting React component library written in TypeScript deployed to NPM.",
-      "tags": [
-        "react",
-        "typescript",
-        "npm",
-        "styledcomponents",
-        "storybook"
       ]
     },
     {
