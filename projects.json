@@ -88,22 +88,6 @@
       ]
     },
     {
-      "id": 6,
-      "title": "YelpCamp",
-      "sourceCodeUrl": "https://github.com/KristofferTroncoso/yelpcamp-project",
-      "liveDemoUrl": "https://github.com/KristofferTroncoso/yelpcamp-project",
-      "screenshot": "./screenshots/camp.jpeg",
-      "description": "A RESTful app using Nodejs with Express in the backend. MongoDB as its database. And EJS for templating.",
-      "tags": [
-        "nodejs",
-        "express",
-        "mongodb",
-        "ejs",
-        "bootstrap",
-        "rest"
-      ]
-    },
-    {
       "id": 7,
       "title": "Kristoffer Troncoso Portfolio",
       "sourceCodeUrl": "https://codepen.io/HarryPirate/pen/aGeOBd",
