@@ -51,7 +51,7 @@
       "sourceCodeUrl": "https://codesandbox.io/s/j7wk47lpzy",
       "liveDemoUrl": "https://j7wk47lpzy.codesandbox.io/",
       "screenshot": "./screenshots/iMessageReactGroupChatscreenshot.jpeg",
-      "description": "This one is really cool. Each phone/user is a component that shares the same state of messages. The demo can scale up to dozens of phones/users.",
+      "description": "An iMessage group chat simulator. Each phone/user is a component that shares the same state of messages. The demo can scale up to dozens of phones/users.",
       "tags": [
         "react",
         "css",
