@@ -1,0 +1,58 @@
+.Card {
+  min-width: 300px;
+  width: 350px;
+  height: 300px;
+  margin: 10px;
+  background: white;
+  box-shadow: 1px 1px 4px #3a3a3a;
+}
+
+@media (max-width: 992px) {
+  .Card {
+    width: 500px;
+    margin: 5px;
+  }
+}
+
+.Card__top {
+  height: 70%;
+  padding: 8px 8px 0 8px;
+  /* dynamic background styling in component's jsx */
+}
+
+.Card__screenshot {
+  height: 100%;
+  box-shadow: inset 0px 0px 4px #424242;
+}
+
+.Card__description {
+  padding: 10px;
+  height: 100%;
+  color: white;
+  background: rgba(0, 0, 0, 0.7);
+  opacity: 0;
+  font-size: 120%;
+}
+
+.Card__description:hover {
+  opacity: 1;
+  transition: opacity 0.1s linear 0.1s;
+}
+
+.Card__bottom {
+  padding: 5px 8px 8px 8px;
+  height: 30%;
+  overflow: hidden;
+}
+
+.Card__bottom a {
+  opacity: 0.8;
+}
+
+.Card__bottom a:hover {
+  opacity: 1;
+}
+
+.Card__title {
+  margin: 4px 0 4px 0;
+}

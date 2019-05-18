@@ -1,0 +1,67 @@
+nav, a {
+  margin: 0px;
+  padding: 0px;
+  text-decoration: none;
+}
+
+
+.headerbg {
+  background: #779cd8;
+  margin-bottom: 20px;
+  box-shadow: 0px 0px 8px #2d2d2d;
+  width: 100%;
+  min-height: 60px;
+  display: flex;
+  align-items: center;
+}
+
+header {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+  align-content: center;
+  height: 100%;
+}
+
+nav {
+  display: flex;
+  align-items: center;
+}
+
+nav a {
+  margin: 0 10px;
+}
+
+.github {
+  height: 40px;
+}
+
+.codepen {
+  height: 41px;
+  padding-top: 2px;
+}
+
+.codesandbox {
+  height: 40px;
+  
+}
+
+.caption {
+  font-size: 1.2rem;
+  font-weight: 1;
+  font-style: italic;
+  margin: 0 5px;
+}
+
+@media (max-width: 768px) {
+  .header {
+    flex-direction: column;
+    padding: 10px 0;
+  }
+  nav {
+    padding-top: 5px;
+    margin: 0;
+  }
+}
+

@@ -1,0 +1,6 @@
+.ProjectsList {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  min-height: 500px;
+}
