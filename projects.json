@@ -1,7 +1,7 @@
 {
   "projects": [
     {
-      "id": 8,
+      "id": 0,
       "title": "React Easy Code",
       "sourceCodeUrl": "https://github.com/KristofferTroncoso/react-easy-code",
       "liveDemoUrl": "https://github.com/KristofferTroncoso/react-easy-code",
@@ -18,7 +18,7 @@
       ]
     },
     {
-      "id": 0,
+      "id": 1,
       "title": "Rheastagram (Instagram clone)",
       "sourceCodeUrl": "https://codepen.io/HarryPirate/pen/xjBorN",
       "liveDemoUrl": "https://codepen.io/HarryPirate/full/xjBorN",
@@ -88,12 +88,28 @@
       ]
     },
     {
+      "id": 6,
+      "title": "KHT UI",
+      "sourceCodeUrl": "https://github.com/KristofferTroncoso/kht-ui",
+      "liveDemoUrl": "https://github.com/KristofferTroncoso/kht-ui",
+      "screenshot": "./screenshots/kht-ui-screenshot.png",
+      "description": "Personal React UI component library. Storybook for component development in isolation and user-facing documentation.",
+      "tags": [
+        "react",
+        "typescript",
+        "styledcomponents",
+        "storybook",
+        "webpack",
+        "npm"
+      ]
+    },
+    {
       "id": 7,
       "title": "Kristoffer Troncoso Portfolio",
-      "sourceCodeUrl": "https://codepen.io/HarryPirate/pen/aGeOBd",
-      "liveDemoUrl": "https://codepen.io/HarryPirate/pen/aGeOBd",
+      "sourceCodeUrl": "https://github.com/KristofferTroncoso/KristofferTroncoso.github.io/tree/dev-branch",
+      "liveDemoUrl": "https://www.kristoffertroncoso.com/",
       "screenshot": "./screenshots/ktportfolioScreenshot.jpeg",
-      "description": "My portfolio website was created with a focus on speed and practicality. It's a React app compiled to static and deployed to Github Pages.",
+      "description": "My portfolio website was created with a focus on speed and practicality. A React SPA deployed to GitHub Pages.",
       "tags": [
         "react",
         "flexbox",
@@ -103,7 +119,7 @@
       ]
     },
     {
-      "id": 9,
+      "id": 8,
       "title": "Random User Redux",
       "sourceCodeUrl": "https://codesandbox.io/s/lmjp23qxq",
       "liveDemoUrl": "https://lmjp23qxq.codesandbox.io/",
