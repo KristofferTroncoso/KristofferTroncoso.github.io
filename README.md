@@ -3,7 +3,7 @@
 <p align="center">My personal software development portfolio website</p>
 
 <p align="center">
-  <img src="./static/media/kt-portfolio-thumb.5d152703.JPG" width="520px">
+  <img src="./assets/ktportfolioscreenshot.JPG" width="520px">
 </p>
 
 ## Details
