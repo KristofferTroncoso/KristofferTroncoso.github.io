@@ -33,7 +33,13 @@ function Tag({ tag, changeFilterTag }) {
     storybook: '#ff4785',
     bootstrap: '#7952b3',
     webpack: '#71a3f2',
-    babel: '#f5da55'
+    babel: '#f5da55',
+    aws: 'orange',
+    graphql: 'pink',
+    s3: 'orange',
+    cognito: 'orange',
+    dynamodb: 'orange',
+    reactrouter: 'orange'
   }
 
   let tagColor = tagColors[tag] || '#c4c4c4';

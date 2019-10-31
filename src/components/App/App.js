@@ -39,14 +39,21 @@ function App() {
     {
       id: 1,
       title: 'Rheastagram (Instagram clone)',
-      sourceCodeUrl: 'https://codepen.io/HarryPirate/pen/xjBorN',
-      liveDemoUrl: 'https://codepen.io/HarryPirate/full/xjBorN',
+      sourceCodeUrl: 'https://github.com/KristofferTroncoso/Rheastagram',
+      liveDemoUrl: 'https://master.d3bmzm8bmp8ok9.amplifyapp.com/',
       screenshot: rheastagram,
-      description: 'An Instagram front-end clone but with Rhea only using React. ',
+      description: 'A full stack serverless Instagram clone using React and AWS',
       tags: [
         'react',
+        'aws',
+        'graphql',
+        's3',
+        'cognito',
+        'dynamodb',
+        'reactrouter',
+        'styledcomponents',
         'flexbox',
-        'sass',
+        'grid',
         'rhea'
       ]
     },
