@@ -51,7 +51,7 @@ function App() {
         'cognito',
         'dynamodb',
         'reactrouter',
-        'styledcomponents',
+        'emotion',
         'flexbox',
         'grid',
         'rhea'

@@ -29,6 +29,7 @@ function Tag({ tag, changeFilterTag }) {
     PWA: '#fccb7b',
     typescript: '#294E80',
     styledcomponents: '#db7093',
+    emotion: '#d6729b',
     npm: '#fb3e44',
     storybook: '#ff4785',
     bootstrap: '#7952b3',
