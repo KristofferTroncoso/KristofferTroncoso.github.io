@@ -39,8 +39,8 @@ function App() {
     {
       id: 1,
       title: 'Rheastagram (Instagram clone)',
-      sourceCodeUrl: 'https://github.com/KristofferTroncoso/Rheastagram',
-      liveDemoUrl: 'https://master.d3bmzm8bmp8ok9.amplifyapp.com/',
+      sourceCodeUrl: 'https://github.com/KristofferTroncoso/rheastagram',
+      liveDemoUrl: 'https://rheaprod.d2f7z4fxf9cz8c.amplifyapp.com/',
       screenshot: rheastagram,
       description: 'A full stack serverless Instagram clone using React and AWS',
       tags: [
