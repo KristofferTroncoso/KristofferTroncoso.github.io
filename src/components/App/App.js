@@ -20,23 +20,6 @@ function App() {
   const [filterTag, changeFilterTag] = useState('');
   const [projects] = useState([
     {
-      id: 0,
-      title: 'React Easy Code',
-      sourceCodeUrl: 'https://github.com/KristofferTroncoso/react-easy-code',
-      liveDemoUrl: 'https://github.com/KristofferTroncoso/react-easy-code',
-      screenshot: reacteasycode,
-      description: 'A simple code highlighting React component library written in TypeScript deployed to NPM.',
-      tags: [
-        'react',
-        'typescript',
-        'npm',
-        'webpack',
-        'babel',
-        'styledcomponents',
-        'storybook'
-      ]
-    },
-    {
       id: 1,
       title: 'Rheastagram (Instagram clone)',
       sourceCodeUrl: 'https://github.com/KristofferTroncoso/rheastagram',
@@ -55,6 +38,23 @@ function App() {
         'flexbox',
         'grid',
         'rhea'
+      ]
+    },
+    {
+      id: 0,
+      title: 'React Easy Code',
+      sourceCodeUrl: 'https://github.com/KristofferTroncoso/react-easy-code',
+      liveDemoUrl: 'https://github.com/KristofferTroncoso/react-easy-code',
+      screenshot: reacteasycode,
+      description: 'A simple code highlighting React component library written in TypeScript deployed to NPM.',
+      tags: [
+        'react',
+        'typescript',
+        'npm',
+        'webpack',
+        'babel',
+        'styledcomponents',
+        'storybook'
       ]
     },
     {
