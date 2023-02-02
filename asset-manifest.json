@@ -1,7 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.7e297d26.css",
-    "main.js": "/static/js/main.349dda25.js",
+    "main.js": "/static/js/main.81157700.js",
+    "static/media/themesong_store_sc.png": "/static/media/themesong_store_sc.570a58261466cc48607a.png",
     "static/media/kt-portfolio-thumb.JPG": "/static/media/kt-portfolio-thumb.902485d0f7facbea7fa3.JPG",
     "static/media/react-image-editor-thumb.jpg": "/static/media/react-image-editor-thumb.fd3d521d57526e51be8e.jpg",
     "static/media/kht-ui-thumb.png": "/static/media/kht-ui-thumb.40483bdc1d7f371a9d91.png",
@@ -11,13 +12,12 @@
     "static/media/lol-api-thumb.jpg": "/static/media/lol-api-thumb.7f0f14873a9f46990636.jpg",
     "static/media/rheastagram-thumb.jpeg": "/static/media/rheastagram-thumb.3352db91122a508b591f.jpeg",
     "static/media/react-easy-code-thumb.JPG": "/static/media/react-easy-code-thumb.25ba34c6fb28ed2e85a9.JPG",
-    "static/media/codesandboxlogo.png": "/static/media/codesandboxlogo.a960b746b4773f2a56cd.png",
     "index.html": "/index.html",
     "main.7e297d26.css.map": "/static/css/main.7e297d26.css.map",
-    "main.349dda25.js.map": "/static/js/main.349dda25.js.map"
+    "main.81157700.js.map": "/static/js/main.81157700.js.map"
   },
   "entrypoints": [
     "static/css/main.7e297d26.css",
-    "static/js/main.349dda25.js"
+    "static/js/main.81157700.js"
   ]
 }
